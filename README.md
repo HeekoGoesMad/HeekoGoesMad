@@ -12,9 +12,6 @@ I’m currently working on Local Company Projects<br>I’m looking to work!<br>I
 ![](https://streak-stats.demolab.com/?user=HeekoGoesMad&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HeekoGoesMad&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HeekoGoesMad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
